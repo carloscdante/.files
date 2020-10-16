@@ -1,4 +1,4 @@
-#so thats my config
+# so thats my config
 And it looks like this
 
-![alt text](https://github.com/carloscdante/dotfiles/blob/main/img.png)
+![alt text](https://github.com/carloscdante/.files/blob/main/img.png)
